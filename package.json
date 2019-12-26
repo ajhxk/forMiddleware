@@ -1,0 +1,17 @@
+{
+    "name": "middleware_demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "business.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "test_1": "node ./test/test_1",
+        "test_2": "node ./test/test_2",
+        "main": "node business"
+    },
+    "author": "",
+    "license": "ISC"
+}
